@@ -1,7 +1,3 @@
-## A Simple Card Component Web Page
-
-![Screenshot of the project](https://1drv.ms/i/c/9c75d2adc775c1f9/IQAEEdrR9fl4SYicnur9d2TuAU-_vYyWbXw1mvyMr9gffzA?e=yYYF9k)
-
 This project features a clean and modern blog post card UI component. It showcases a promotional blog preview using a card layout with styled typography, borders, and responsive design techniques.
 
 It was built entirely with HTML and CSS as part of the **[freeCodeCamp.org](https://www.freecodecamp.org/learn/full-stack-developer/)** CSS course.
