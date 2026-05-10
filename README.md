@@ -16,8 +16,7 @@ The design uses a minimalist layout with clearly defined sections, soft color to
 
 - Clean, centered card layout
 - Responsive design using flexible widths and `max-width`
-- Styled HTML `time` element for semantic clarity
-- Smooth hover effects for interactive links
+- Hover effects for interactive links
 - Google Fonts integration for modern typography
 - Color palette optimized for contrast and readability
 - Card shadow and border radius for visual depth
@@ -27,9 +26,8 @@ The design uses a minimalist layout with clearly defined sections, soft color to
 ## What I Learned
 
 - How to design and center a standalone card component
-- Best practices for semantic HTML elements like `<time>` and `<section>`
-- Responsive spacing with `clamp()` for font and margin sizes
-- Smooth hover transitions using `transform` and `scale`
+- Best practices for semantic HTML elements 
+- Responsive spacing for font and margin sizes
 - How to use CSS custom properties (`--variables`) to improve maintainability
 - Basic accessibility features like readable contrast and keyboard-friendly links
 
@@ -41,7 +39,6 @@ The design uses a minimalist layout with clearly defined sections, soft color to
 - CSS3
 - Git
 - GitHub
-- Netlify
 
 ---
 
